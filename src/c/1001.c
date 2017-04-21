@@ -1,4 +1,4 @@
-// 0ms
+// 0ms 1688k
 #include <stdio.h>
 int main()
 {
